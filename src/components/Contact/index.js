@@ -79,13 +79,13 @@ const Contact = () => {
           </div>
         </div>
         <div className="info-map">
-          Michael Boyo,
+          Augustine Ezekiel,
           <br />
          Yaba, Lagos
           <br />
-          +2348103297538<br />
+          +2349035122224<br />
           <br />
-          <span>boyomichaelbidemi@gmail.com</span>
+          <span>augustineezekiel763@gmail.com</span>
         </div>
       </div>
       <Loader type="pacman" />

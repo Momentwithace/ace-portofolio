@@ -18,7 +18,7 @@ const Home = () => {
               src={LogoTitle}
               alt="angle brackets"
             />
-            <h1>Michael Boyo</h1>
+            <h1>Augustine Ezekiel</h1>
             <br />
           </h1>
           <h2>SOFTWARE ENGINEER </h2>
